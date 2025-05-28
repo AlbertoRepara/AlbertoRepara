@@ -1,5 +1,14 @@
 # 👋 ¡Hola! Soy Alberto Santillan  
 ### ANALISTA QA MANUAL | QA TESTER | PRUEBAS FUNCIONALES Y DE API
+---
+
+### 📬 CONTACTO
+
+[![LinkedIn](www.linkedin.com/in/alberto-santillan-885bab172)  
+[![WhatsApp](523329377875)
+
+---
+
 
 ---
 
