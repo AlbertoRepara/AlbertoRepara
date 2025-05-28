@@ -23,6 +23,30 @@ Destaco por mi enfoque analítico, atención al detalle y compromiso con la mejo
 
 ---
 
+### 💼 PROYECTOS DESTACADOS
+
+- 🔍 **Automatización de pruebas de API con Postman y Python**  
+  Proyecto personal donde desarrollé y ejecuté pruebas automatizadas para validar endpoints REST utilizando Postman y scripts con Python.
+
+- 📱 **Validación funcional de app móvil (Android Studio + emulador)**  
+  Validación funcional manual de una aplicación móvil usando Android Studio y documentación de casos de prueba.
+
+- 🧪 **Pruebas de integración con Pytest**  
+  Automatización de pruebas funcionales e integración continua con Pytest en entornos simulados de backend.
+
+---
+
+### 📜 CERTIFICACIONES
+
+- 🏅 **Curso de QA Manual y Automatizado** – [Nombre del curso / plataforma]  
+- 📜 **Introducción a Python para QA** – [Nombre de la institución]  
+- 🎓 **Scrum Fundamentals Certified** – [ScrumStudy u otra]  
+- 🧠 **Postman API Fundamentals Student Expert** – Postman
+
+---
+
+
+
 
 
 
