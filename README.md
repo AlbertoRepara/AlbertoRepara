@@ -34,6 +34,8 @@ Destaco por mi enfoque analítico, atención al detalle y compromiso con la mejo
 
 ---
 ### 📬 CONTACTO
+-¡Conectemos! Siempre estoy abierto a colaborar en proyectos interesantes y contribuir a la garantía de calidad en el desarrollo.
+  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/alberto-santillan-885bab172)  
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/523329377875)
