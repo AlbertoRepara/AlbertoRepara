@@ -42,6 +42,7 @@ Destaco por mi enfoque analítico, atención al detalle y compromiso con la mejo
 - 📜 **Introducción a Python para QA** – [Nombre de la institución]  
 - 🎓 **Scrum Fundamentals Certified** – [ScrumStudy u otra]  
 - 🧠 **Postman API Fundamentals Student Expert** – Postman
+- 
 
 ---
 
