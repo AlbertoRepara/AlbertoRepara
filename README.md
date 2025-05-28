@@ -1,14 +1,6 @@
 # 👋 ¡Hola! Soy Alberto Santillan  
 ### ANALISTA QA MANUAL | QA TESTER | PRUEBAS FUNCIONALES Y DE API
 ---
-
-### 📬 CONTACTO
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-usuario-linkedin)  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5491234567890)
-
----
-
 Profesional en QA con formación práctica en control de calidad de software, especializado en pruebas manuales, automatizadas y de APIs. Manejo herramientas clave como **Postman**, **Jira**, **Android Studio** y **Python** para automatización, aplicando metodologías ágiles en entornos colaborativos de desarrollo.
 
 Destaco por mi enfoque analítico, atención al detalle y compromiso con la mejora continua. He ejecutado casos de prueba funcionales, reportado y gestionado bugs de manera efectiva, y participado en validaciones de interfaces móviles, garantizando que cada producto cumpla con los más altos estándares de calidad.
@@ -41,14 +33,11 @@ Destaco por mi enfoque analítico, atención al detalle y compromiso con la mejo
   Automatización de pruebas funcionales e integración continua con Pytest en entornos simulados de backend.
 
 ---
+### 📬 CONTACTO
 
-### 📜 CERTIFICACIONES
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-usuario-linkedin)  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5491234567890)
 
-- 🏅 **Curso de QA Manual y Automatizado** – [Nombre del curso / plataforma]  
-- 📜 **Introducción a Python para QA** – [Nombre de la institución]  
-- 🎓 **Scrum Fundamentals Certified** – [ScrumStudy u otra]  
-- 🧠 **Postman API Fundamentals Student Expert** – Postman
-- 
 
 ---
 
