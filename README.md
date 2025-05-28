@@ -39,6 +39,7 @@ Destaco por mi enfoque analítico, atención al detalle y compromiso con la mejo
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/523329377875)
 
 
+
 ---
 
 
