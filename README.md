@@ -13,14 +13,16 @@ Destaco por mi enfoque analítico, atención al detalle y compromiso con la mejo
 
 ### 🛠️ SKILLS
 
-- ✅ Pruebas manuales y automatizadas
-- 🧪 Postman, REST APIs
-- 🐞 Gestión de bugs (Jira)
-- 🤖 Automatización con Python
-- 📱 Validación de interfaces móviles
+- ✅ Pruebas manuales y automatizadas  
+- 🧪 Postman, REST APIs  
+- 🐞 Gestión de bugs con Jira  
+- 🤖 Automatización con **Python** y **Pytest**  
+- 🗃️ **SQL** y manejo de **JSON**  
+- 📱 Validación de interfaces móviles con **Android Studio**  
 - 🔄 Metodologías ágiles (Scrum)
 
 ---
+
 
 
 
