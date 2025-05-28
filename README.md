@@ -6,3 +6,4 @@ Profesional en QA con formación práctica en control de calidad de software, es
 ### SKILLS 
 
 
+
