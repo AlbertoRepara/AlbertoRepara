@@ -1,3 +1,5 @@
+![Banner](assets/Banner%201.jpg)
+
 # 👋 ¡Hola! Soy Alberto Santillan  
 ### ANALISTA QA MANUAL | QA TESTER | PRUEBAS FUNCIONALES Y DE API
 ---
